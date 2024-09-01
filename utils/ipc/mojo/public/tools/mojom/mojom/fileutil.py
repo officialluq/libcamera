@@ -3,7 +3,7 @@
 # found in the LICENSE file.
 
 import errno
-import imp
+import importlib
 import os.path
 import sys
 
